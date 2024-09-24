@@ -1,0 +1,33 @@
+Objective:
+"e-Learning" is an educational-based web application; this web portal helps college students to get all the resources & study materials of every course available on the online portal. All the students can access this website portal anytime and from anywhere on the internet. E-Learning System is a very good online e-learning portal compared to all web links given by Google, ChatGPT, Bing or any website while searching for student course materials.
+
+Existing System:
+In Present Educational based E-learning system, students can get information from books or study materials provided by professors manually. But in this system, students may not get the related and sufficient information according to their syllabus and professors to clarify their doubts. There is no proper guidance for the students.
+
+Proposed System: 
+The main aim of this E-learning system is to provide sufficient study materials to the academic students according to their syllabus from which students can easily download study materials of their relevant course. The first step is to register in order to access this website. In this system, we are providing discussion forums between students and professors where students can easily clarify their doubts. Modules of this website are Admin, Professor, Student, and Mentor.
+
+Modules:
+1. Admin:
+	a. Admin can view all member's details like professors/asst. professors, mentors and students. Here each user(mentor/professor) can upload material
+	b. The uploaded material can be verified by the admin. The admin can validate the material if the material is related to the subject. The validated materials are only visible to the students.
+	c. The admin can view the queries which are sent by the students to the mentors. The admin can also check how many solved queries and unsolved queries.
+
+2. Student: 
+	a. Each Student must and should be registered before login. Here we have user authentication every time. Students can view material and send queries.
+	b. The student can send a query to the mentor if he/she has any doubts regarding academic subjects.
+
+3. Mentor:
+	a. Mentor registration and login
+	b. Mentors can upload material, view, material, forward queries, and reply to queries.
+	c. The mentor view uploaded the material by all the users which is validated by the admin and he can download materials.
+	d. The mentor can solve query if he/she is unable to solve queries forward it to Asst. Professors/ Professors.
+
+4. Professor:
+	a. Professor registration and login
+	b. Professor can upload material, view material, and reply to queries. The upload materials first verify by the admin and then visible in the view material tab
+	c. The Professor view uploaded material by all the users which are validated by an admin.
+	d. The Professor can solve a query and send it back to the mentors.
+
+
+
